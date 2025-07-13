@@ -26,3 +26,4 @@ This is a personal portfolio website built using HTML and CSS. It showcases my s
 
 ## OUTPUT SCREENSHOT:
 
+![Image](https://github.com/user-attachments/assets/f3dd9604-5869-4a0d-bce9-96e285ee78e5)
