@@ -18,7 +18,7 @@ This is a personal portfolio website built using HTML and CSS. It showcases my s
 
 ## FEATURES:
 
-- Simple and clean responsive layout
+- Simple and clean responsive layout.
   
 - List of technical skills and major projects
   
